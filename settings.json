@@ -8,7 +8,7 @@
   "server": {
     "ip": "TUMSABLUND.aternos.me",
     "port": 15578,
-    "version": "",
+    "version": "1.20.5",
     "try-creative": false
   },
   "position": {
